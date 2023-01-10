@@ -71,6 +71,9 @@
 
 
 .button__modal-send{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
     display: flex;
     align-items: center;
     text-align: center;

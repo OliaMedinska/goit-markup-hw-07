@@ -152,7 +152,7 @@ color: var(--second-text-color);
     color: rgba(255, 255, 255, 0.6);
 
     &:focus{
-        color:var(--form-comment-color);    
+        color:var(--second-text-color-footer);    
         border-color: var(--accent-text-color);
         }
     }
